@@ -24,10 +24,83 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20190612182451.1" a="E"><vh>W10</vh>
+<v t="leo.20190612182451.2" a="E"><vh>1</vh>
+<v t="leo.20190612182451.3"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612183237.1" a="E"><vh>W11</vh>
+<v t="leo.20190612183237.2" a="E"><vh>1</vh>
+<v t="leo.20190612183237.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190612183237.4" a="E"><vh>2</vh>
+<v t="leo.20190612183237.5"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612191531.1"><vh>W12</vh>
+<v t="leo.20190612191531.2" a="E"><vh>1</vh>
+<v t="leo.20190612191531.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190612191531.4" a="E"><vh>2</vh>
+<v t="leo.20190612191531.5"><vh>first</vh></v>
+</v>
+<v t="leo.20190612192431.1" a="E"><vh>3</vh>
+<v t="leo.20190612192431.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190612192434.1" a="E"><vh>4</vh>
+<v t="leo.20190612192434.2"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612193132.1" a="E"><vh>W13</vh>
+<v t="leo.20190612193132.2" a="E"><vh>1</vh>
+<v t="leo.20190612193132.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190612193132.4" a="E"><vh>2</vh>
+<v t="leo.20190612193132.5"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612193724.1"><vh>W14</vh>
+<v t="leo.20190612193724.2" a="E"><vh>1</vh>
+<v t="leo.20190612193724.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190612193724.4" a="E"><vh>2</vh>
+<v t="leo.20190612193724.5"><vh>first</vh></v>
+</v>
+<v t="leo.20190612193724.6" a="E"><vh>3</vh>
+<v t="leo.20190612193724.7"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612194955.1"><vh>W15</vh>
+<v t="leo.20190612194955.2" a="E"><vh>1</vh>
+<v t="leo.20190612194955.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190612194955.4" a="E"><vh>2</vh>
+<v t="leo.20190612194955.5"><vh>first</vh></v>
+</v>
+<v t="leo.20190612194955.6" a="E"><vh>3</vh>
+<v t="leo.20190612194955.7"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612195819.1" a="E"><vh>W16</vh>
+<v t="leo.20190612195819.2" a="E"><vh>1</vh>
+<v t="leo.20190612195819.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190612195819.4" a="E"><vh>2</vh>
+<v t="leo.20190612195819.5"><vh>first</vh></v>
+</v>
+<v t="leo.20190612195819.6" a="E"><vh>3</vh>
+<v t="leo.20190612195819.7"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612195829.1"><vh>期末</vh>
+<v t="leo.20190612195829.2" a="E"><vh>1</vh>
+<v t="leo.20190612195829.3"><vh>first</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -124,15 +197,26 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">&lt;p&gt;&lt;font face="serif" color="#D18800"  size="8"&gt;  2019 Spring協同產品設計實習&lt;/font&gt;&lt;/p&gt;
 
-### 虎科大機械設計工程系
+&lt;p&gt;&lt;font face="serif" color="#D18800"  size="7"&gt;  虎尾科技大學機械設計系&lt;/font&gt;&lt;/p&gt;
+* [&lt;p&gt;&lt;font face="serif" color="#B8B800"  size="6"&gt;個人倉儲&lt;/font&gt;&lt;/p&gt;](https://github.com/40423158/2019cd)
 
+* [&lt;p&gt;&lt;font face="serif" color="#B8B800"  size="6"&gt;個人網站&lt;/font&gt;&lt;/p&gt;](https://40423158.github.io/2019cd/content/index.html)
+
+* [&lt;p&gt;&lt;font face="serif" color="#B8B800"  size="6"&gt;小組BG4倉儲&lt;/font&gt;&lt;/p&gt;](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g4)
+
+* [&lt;p&gt;&lt;font face="serif" color="#B8B800"  size="6"&gt;小組BG4網站&lt;/font&gt;&lt;/p&gt;](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g4)
+
+* [&lt;p&gt;&lt;font face="serif" color="#B8B800"  size="6"&gt;全班倉儲&lt;/font&gt;&lt;/p&gt;](https://github.com/scrum-1/cd2019b)
+
+* [&lt;p&gt;&lt;font face="serif" color="#B8B800"  size="6"&gt;全班網站&lt;/font&gt;&lt;/p&gt;](http://cpgx.kmol.info/cd2019b/content/index.html)
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+Created by  [40423158](https://github.com/40423158)
+&lt;small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+
+
 
 
 </t>
@@ -325,6 +409,365 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190612182451.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612182451.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612182451.3"># Week10
+* 練習製作實驗任務三 
+ * 模型[檔案](https://cad.onshape.com/documents/d27b6fa416b2ae562a233634/w/b9f89d0d2220c12610e47028/e/3357d97f9bb7eac9dd5317d0)
+* 補BubbleRob tutorial [製作過程影片](https://www.youtube.com/watch?v=R4E12pNuIV0)
+* 更新[小組投影片](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g4/reveal/index.html#/)
+
+
+</t>
+<t tx="leo.20190612183237.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612183237.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612183237.3"># Week11
+* 組員分工
+ * 分配到Vrep手足球跟小組投影片
+* 建立 Virtualbox 虛擬主機
+ * [影片連結](https://www.youtube.com/watch?v=Xh06GBN_HzU&amp;t=7s)
+* Vrep 手足球方向鍵控制
+
+
+
+</t>
+<t tx="leo.20190612183237.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612183237.5">* Vrep 手足球方向鍵控制 [檔案](https://drive.google.com/file/d/1-8nX3Q26X8UAnQqade-qhUKgRiQNHzEl/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/J25aN9h3qJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612191531.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612191531.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612191531.3"># Week12
+* Vrep手足球兩邊手動對打(單一軸)
+* Vrep手足球多球員方向鍵測試
+* Vrep手足球(多球員)兩邊手動對打(缺送球機構版)
+
+
+
+</t>
+<t tx="leo.20190612191531.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612191531.5">* Vrep手足球兩邊手動對打(單一軸) [檔案](https://drive.google.com/file/d/1JWeoKpCma5t0XNI5qf7wnhtN8zoAoZUJ/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/5VfcwEWQpRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612192431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612192431.2">* Vrep 手足球方向鍵控制
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/xfGQMQJm2fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612192434.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612192434.2">* Vrep手足球(多球員)兩邊手動對打(無送球機構跟無邊界版) [檔案](https://drive.google.com/file/d/1cij7DTeF8UA9Eg4gHvnbcdXp7mrXaHS7/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/npz0s3x5xzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612193132.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612193132.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612193132.3"># Week13
+* Vrep手足球 電腦VS電腦(單軸兩邊對打)
+
+
+
+
+</t>
+<t tx="leo.20190612193132.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612193132.5">* Vrep手足球 電腦VS電腦(單軸兩邊對打) [檔案](https://drive.google.com/file/d/1Z43QPiCMGKJNJrGGAXjtMvOmVJW9ImKr/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/HzUHSbkOUSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+此版本未能準確抓住球
+</t>
+<t tx="leo.20190612193724.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612193724.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612193724.3"># Week14
+* 架設攝影機
+* 增加手動VS手動邊界
+* Vrep電腦對電腦(單軸兩邊對打,修正人對球位置)
+
+
+
+
+</t>
+<t tx="leo.20190612193724.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612193724.5">* 架設攝影機 增加手動VS手動邊界 [檔案](https://drive.google.com/file/d/1l-rLG0Gf-r95iQoLJvIHAgKl11agEZ04/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/Br_4BFrC9c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612193724.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612193724.7">* Vrep電腦對電腦(單軸兩邊對打,修正人對球位置)
+[檔案](https://drive.google.com/file/d/1Z43QPiCMGKJNJrGGAXjtMvOmVJW9ImKr/view)
+
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/dAaP6K6IyO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612194955.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612194955.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612194955.3"># Week15
+* Vrep 手動VS手動(完整版)
+* Vrep 電腦VS人(單軸兩邊互打)
+
+
+
+
+
+</t>
+<t tx="leo.20190612194955.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612194955.5">* Vrep 手動VS手動(完整版) [檔案](https://drive.google.com/file/d/10O3gXgdBlt4v4Mzeh6rxT1oc7lA7H9fS/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/d7J7yWBb5ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612194955.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612194955.7">* Vrep 電腦VS人(單軸兩邊互打) [檔案](https://drive.google.com/file/d/13QlN5w1NBkM0oUCpLM4k8W3OcNSQmI2o/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/-mkuJGoBLvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612195819.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612195819.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612195819.3"># Week16
+* Vrep 電腦VS人(完整版)
+* Vrep 電腦VS電腦(完整版)
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20190612195819.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612195819.5">* Vrep 電腦VS人(完整版) [檔案](https://drive.google.com/file/d/1eaj6ecl3lIpankWGjdBZQgur_Uf5SOrK/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/3dqeYTxdUQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;small&gt;
+參考學弟程式[網址](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
+&lt;small&gt;</t>
+<t tx="leo.20190612195819.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612195819.7">* Vrep 電腦VS電腦(完整版) [檔案](https://drive.google.com/file/d/127U5ccPnYP0m-e7UIjNjROOrbkoblaK8/view)
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/4XTbavz2OKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;small&gt;
+參考學弟程式[網址](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
+&lt;small&gt;
+</t>
+<t tx="leo.20190612195829.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190612195829.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612195829.3"># 期末影片
+
+
+
+
+
 </t>
 </tnodes>
 </leo_file>
