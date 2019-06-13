@@ -70,33 +70,48 @@
 <v t="leo.20190612193724.7"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612194955.1"><vh>W15</vh>
+<v t="leo.20190612194955.1" a="E"><vh>W15</vh>
 <v t="leo.20190612194955.2" a="E"><vh>1</vh>
 <v t="leo.20190612194955.3"><vh>first</vh></v>
 </v>
 <v t="leo.20190612194955.4" a="E"><vh>2</vh>
 <v t="leo.20190612194955.5"><vh>first</vh></v>
 </v>
+<v t="leo.20190613164614.1" a="E"><vh>2</vh>
+<v t="leo.20190613164614.2"><vh>first</vh></v>
+</v>
 <v t="leo.20190612194955.6" a="E"><vh>3</vh>
 <v t="leo.20190612194955.7"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612195819.1" a="E"><vh>W16</vh>
+<v t="leo.20190612195819.1"><vh>W16</vh>
 <v t="leo.20190612195819.2" a="E"><vh>1</vh>
 <v t="leo.20190612195819.3"><vh>first</vh></v>
 </v>
 <v t="leo.20190612195819.4" a="E"><vh>2</vh>
 <v t="leo.20190612195819.5"><vh>first</vh></v>
 </v>
-<v t="leo.20190612195819.6" a="E"><vh>3</vh>
+<v t="leo.20190613165321.1" a="E"><vh>2</vh>
+<v t="leo.20190613165321.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190613165437.1" a="E"><vh>2</vh>
+<v t="leo.20190613165437.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190612195819.6"><vh>3</vh>
 <v t="leo.20190612195819.7"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612195829.1"><vh>期末</vh>
+<v t="leo.20190613170902.1" a="E"><vh>期末</vh>
+<v t="leo.20190613170902.2" a="E"><vh>1</vh>
+<v t="leo.20190613170902.3" a="M"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190612195829.1" a="E"><vh>期末</vh>
 <v t="leo.20190612195829.2" a="E"><vh>1</vh>
 <v t="leo.20190612195829.3"><vh>first</vh></v>
 </v>
 </v>
+<v t="leo.20190612195829.1" a="E"></v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -427,7 +442,7 @@ make.start()
 						
 </t>
 <t tx="leo.20190612182451.3"># Week10
-* 練習製作實驗任務三 
+* 練習製作 [實驗任務三](https://40423158.github.io/2019cd/content/Week10~18.html)
  * 模型[檔案](https://cad.onshape.com/documents/d27b6fa416b2ae562a233634/w/b9f89d0d2220c12610e47028/e/3357d97f9bb7eac9dd5317d0)
 * 補BubbleRob tutorial [製作過程影片](https://www.youtube.com/watch?v=R4E12pNuIV0)
 * 更新[小組投影片](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g4/reveal/index.html#/)
@@ -615,7 +630,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190612193724.5">* 架設攝影機 增加手動VS手動邊界 [檔案](https://drive.google.com/file/d/1l-rLG0Gf-r95iQoLJvIHAgKl11agEZ04/view)
-&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/Br_4BFrC9c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/Br_4BFrC9c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612193724.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -669,7 +686,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190612194955.5">* Vrep 手動VS手動(完整版) [檔案](https://drive.google.com/file/d/10O3gXgdBlt4v4Mzeh6rxT1oc7lA7H9fS/view)
-&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/d7J7yWBb5ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/d7J7yWBb5ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612194955.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -682,8 +701,7 @@ make.start()
 						
 </t>
 <t tx="leo.20190612194955.7">* Vrep 電腦VS人(單軸兩邊互打) [檔案](https://drive.google.com/file/d/13QlN5w1NBkM0oUCpLM4k8W3OcNSQmI2o/view)
-&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/-mkuJGoBLvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/-mkuJGoBLvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190612195819.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -723,11 +741,13 @@ make.start()
 						
 </t>
 <t tx="leo.20190612195819.5">* Vrep 電腦VS人(完整版) [檔案](https://drive.google.com/file/d/1eaj6ecl3lIpankWGjdBZQgur_Uf5SOrK/view)
-&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/3dqeYTxdUQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/m5kw-mUYSu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
 參考學弟程式[網址](https://40623217.github.io/Collaborative-Product-Design-Practice/content/human%20and%20computer.html)
-&lt;small&gt;</t>
+&lt;small&gt;
+
+</t>
 <t tx="leo.20190612195819.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -762,11 +782,93 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612195829.3"># 期末影片
+<t tx="leo.20190612195829.3">## 評分比例:
+
+學員出席 (20%): 19
+
+Github倉儲管理 (20%): 15
+
+Onshape 協同操作 (20%): 5
+
+Vrep 模擬 (20%): 15
+
+程式開發 (20%): 10
+
+自評成績: 64
 
 
 
 
+
+</t>
+<t tx="leo.20190613164614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613164614.2">* 經過跟組員討論跟詢問後在原程式把加上對鍵盤上按鍵偵測指令
+
+&lt;img src="https://40423158.github.io/2019cd/images/vrep1.png"class="w3-round" alt="Norway" width="500" high="500"&gt;
+&lt;img src="https://40423158.github.io/2019cd/images/vrep.png"class="w3-round" alt="Norway" width="200" high="300"&gt;
+
+</t>
+<t tx="leo.20190613165321.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613165321.2">* 把學弟踢球鍵一併改成S
+
+&lt;img src="https://40423158.github.io/2019cd/images/%E9%9B%BB%E8%85%A6VS%E4%BA%BA-2.png"class="w3-round" alt="Norway" width="500" high="500"&gt;
+
+</t>
+<t tx="leo.20190613165437.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613165437.2">* 分別修改球員對準求位址，並給了Y軸移動速度*8
+
+&lt;img src="https://40423158.github.io/2019cd/images/vrep_DBKQUDI9NM.png"class="w3-round" alt="Norway" width="450" high="400"&gt;
+&lt;img src="https://40423158.github.io/2019cd/images/vrep_DAAafTToHa.png"class="w3-round" alt="Norway" width="450" high="400"&gt;
+</t>
+<t tx="leo.20190613170902.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613170902.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613170902.3">## 結論:
+
+  剛上這堂課時因為老師是電腦分組緣故，再加上修學弟班所以起初都不太知道這組成員有誰跟任務分配，直到在第四堂課正式開始才慢慢有小組感覺，而我一開始分配到則是小組投影片更新相對工作量小，到了期中後又重新分配工作而我分配到Vrep模擬跟小組投影片更新，起初在模擬Vrep過程常常因為一個裝配甚至速度相反跟碰撞而導致程式出錯，好在組員都非常厲害經過再三跟他們詢問最後也成功完成自己任務。
 
 </t>
 </tnodes>
