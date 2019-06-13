@@ -114,7 +114,11 @@
 <v t="leo.20190612195829.3"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612195829.1" a="E"></v>
+<v t="leo.20190613195256.1"><vh>期末</vh>
+<v t="leo.20190613195256.2" a="E"><vh>1</vh>
+<v t="leo.20190613195256.3"><vh>first</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -791,15 +795,16 @@ make.start()
 
 學員出席 (20%): 19
 
-Github倉儲管理 (20%): 15
+Github 倉儲管理 (20%): 15
 
 Onshape 協同操作 (20%): 5
 
-Vrep 模擬 (20%): 15
+V-rep 模擬 (20%): 15
 
 程式開發 (20%): 10
 
 自評成績: 64
+
 
 
 
@@ -890,6 +895,31 @@ Vrep 模擬 (20%): 15
 <t tx="leo.20190613174829.2">* 兩個以上球員利用此合併
 
 &lt;img src="https://40423158.github.io/2019cd/images/%E6%9C%AA%E5%91%BD%E5%90%8D.png"class="w3-round" alt="Norway" width="700" high="700"&gt;
+
+
+</t>
+<t tx="leo.20190613195256.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613195256.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613195256.3">## 期末影片
+
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/hSHOce4l9pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
 
 
 </t>
