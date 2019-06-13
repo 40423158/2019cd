@@ -44,11 +44,14 @@
 <v t="leo.20190612191531.4"><vh>2</vh>
 <v t="leo.20190612191531.5"><vh>first</vh></v>
 </v>
-<v t="leo.20190613173638.1" a="E"><vh>2</vh>
+<v t="leo.20190613173638.1"><vh>2</vh>
 <v t="leo.20190613173638.2"><vh>first</vh></v>
 </v>
-<v t="leo.20190612192431.1" a="E"><vh>3</vh>
+<v t="leo.20190612192431.1"><vh>3</vh>
 <v t="leo.20190612192431.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190613174829.1" a="E"><vh>2</vh>
+<v t="leo.20190613174829.2"><vh>first</vh></v>
 </v>
 <v t="leo.20190612192434.1" a="E"><vh>4</vh>
 <v t="leo.20190612192434.2"><vh>first</vh></v>
@@ -538,7 +541,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612192431.2">* Vrep 手足球方向鍵控制
+<t tx="leo.20190612192431.2">* Vrep 手足球多個球員方向鍵控制
 &lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/xfGQMQJm2fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190612192434.1">&lt;section data-markdown&gt;
@@ -871,6 +874,23 @@ Vrep 模擬 (20%): 15
 
 &lt;img src="https://40423158.github.io/2019cd/images/vrep1.png"class="w3-round" alt="Norway" width="500" high="500"&gt;
 &lt;img src="https://40423158.github.io/2019cd/images/vrep.png"class="w3-round" alt="Norway" width="200" high="300"&gt;
+
+</t>
+<t tx="leo.20190613174829.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613174829.2">* 兩個以上球員利用此合併
+
+&lt;img src="https://40423158.github.io/2019cd/images/%E6%9C%AA%E5%91%BD%E5%90%8D.png"class="w3-round" alt="Norway" width="700" high="700"&gt;
+
 
 </t>
 </tnodes>
