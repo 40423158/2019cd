@@ -37,12 +37,15 @@
 <v t="leo.20190612183237.5"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612191531.1"><vh>W12</vh>
+<v t="leo.20190612191531.1" a="E"><vh>W12</vh>
 <v t="leo.20190612191531.2" a="E"><vh>1</vh>
 <v t="leo.20190612191531.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190612191531.4" a="E"><vh>2</vh>
+<v t="leo.20190612191531.4"><vh>2</vh>
 <v t="leo.20190612191531.5"><vh>first</vh></v>
+</v>
+<v t="leo.20190613173638.1" a="E"><vh>2</vh>
+<v t="leo.20190613173638.2"><vh>first</vh></v>
 </v>
 <v t="leo.20190612192431.1" a="E"><vh>3</vh>
 <v t="leo.20190612192431.2"><vh>first</vh></v>
@@ -51,7 +54,7 @@
 <v t="leo.20190612192434.2"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612193132.1" a="E"><vh>W13</vh>
+<v t="leo.20190612193132.1"><vh>W13</vh>
 <v t="leo.20190612193132.2" a="E"><vh>1</vh>
 <v t="leo.20190612193132.3"><vh>first</vh></v>
 </v>
@@ -77,14 +80,11 @@
 <v t="leo.20190612194955.4" a="E"><vh>2</vh>
 <v t="leo.20190612194955.5"><vh>first</vh></v>
 </v>
-<v t="leo.20190613164614.1" a="E"><vh>2</vh>
-<v t="leo.20190613164614.2"><vh>first</vh></v>
-</v>
 <v t="leo.20190612194955.6" a="E"><vh>3</vh>
 <v t="leo.20190612194955.7"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190612195819.1"><vh>W16</vh>
+<v t="leo.20190612195819.1" a="E"><vh>W16</vh>
 <v t="leo.20190612195819.2" a="E"><vh>1</vh>
 <v t="leo.20190612195819.3"><vh>first</vh></v>
 </v>
@@ -701,7 +701,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190612194955.7">* Vrep 電腦VS人(單軸兩邊互打) [檔案](https://drive.google.com/file/d/13QlN5w1NBkM0oUCpLM4k8W3OcNSQmI2o/view)
-&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/-mkuJGoBLvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1000" height="500" src="https://www.youtube.com/embed/-mkuJGoBLvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612195819.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -801,23 +803,6 @@ Vrep 模擬 (20%): 15
 
 
 </t>
-<t tx="leo.20190613164614.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190613164614.2">* 經過跟組員討論跟詢問後在原程式把加上對鍵盤上按鍵偵測指令
-
-&lt;img src="https://40423158.github.io/2019cd/images/vrep1.png"class="w3-round" alt="Norway" width="500" high="500"&gt;
-&lt;img src="https://40423158.github.io/2019cd/images/vrep.png"class="w3-round" alt="Norway" width="200" high="300"&gt;
-
-</t>
 <t tx="leo.20190613165321.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -869,6 +854,23 @@ Vrep 模擬 (20%): 15
 <t tx="leo.20190613170902.3">## 結論:
 
   剛上這堂課時因為老師是電腦分組緣故，再加上修學弟班所以起初都不太知道這組成員有誰跟任務分配，直到在第四堂課正式開始才慢慢有小組感覺，而我一開始分配到則是小組投影片更新相對工作量小，到了期中後又重新分配工作而我分配到Vrep模擬跟小組投影片更新，起初在模擬Vrep過程常常因為一個裝配甚至速度相反跟碰撞而導致程式出錯，好在組員都非常厲害經過再三跟他們詢問最後也成功完成自己任務。
+
+</t>
+<t tx="leo.20190613173638.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613173638.2">* 經過跟組員討論跟詢問後在原程式把加上對鍵盤上按鍵偵測指令
+
+&lt;img src="https://40423158.github.io/2019cd/images/vrep1.png"class="w3-round" alt="Norway" width="500" high="500"&gt;
+&lt;img src="https://40423158.github.io/2019cd/images/vrep.png"class="w3-round" alt="Norway" width="200" high="300"&gt;
 
 </t>
 </tnodes>
