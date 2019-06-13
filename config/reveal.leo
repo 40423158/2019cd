@@ -100,7 +100,7 @@
 <v t="leo.20190613165437.1" a="E"><vh>2</vh>
 <v t="leo.20190613165437.2"><vh>first</vh></v>
 </v>
-<v t="leo.20190612195819.6"><vh>3</vh>
+<v t="leo.20190612195819.6" a="E"><vh>3</vh>
 <v t="leo.20190612195819.7"><vh>first</vh></v>
 </v>
 </v>
@@ -730,6 +730,9 @@ make.start()
 <t tx="leo.20190612195819.3"># Week16
 * Vrep 電腦VS人(完整版)
 * Vrep 電腦VS電腦(完整版)
+* 更新[小組投影片](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g4/reveal)
+* 更新個人投影片
+* 更新[個人網站](https://40423158.github.io/2019cd/content/index.html) 
 
 
 
